@@ -1,2 +1,4 @@
 .idea/
 .gitignore
+/.$classes_diagram.drawio.bkp
+tests/__pycache__/
